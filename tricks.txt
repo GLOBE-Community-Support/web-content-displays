@@ -1,0 +1,10 @@
+# Jump to a line using a URL
+<a href="#Name of your thing including spaces if you want">Jump to content</a>
+# Line to jump to needs this
+<a id="Name of your thing including spaces if you want" name="Name of your thing including spaces if you want"></a>
+
+For example the section I want someone to jump to might look like this:
+<h3><a id="orgid" name="orgid"></a>Organization ID</h3>
+
+That's how I jump users from the definition or ORG_ID to the tutorial further
+down the page on the School ID FAQ tutorial https://www.globe.gov/support/faqs/globe-website-tutorials/school-id
